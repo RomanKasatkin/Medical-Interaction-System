@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="KPO">
+</Property><Property Name="Файл решения" Value="E:\Универ\3Curs\КПО\Выполнение\Lab\KPO\KPO.sln">
+</Property><Property Name="Date" Value="1 декабря 2016 г.">
+</Property><Property Name="Time" Value="20:57">
+</Property></Properties><Event ErrorLevel="0" Project="KPO" Source="KPO.csproj" Description="Проект успешно преобразован">
+</Event><Event ErrorLevel="3" Project="KPO" Source="KPO.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="KPO.sln" Description="Преобразование решения успешно завершено">
+</Event><Event ErrorLevel="3" Project="" Source="KPO.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="KPO" Source="KPO.csproj" Description="Сканирование завершено: обновление для файлов проекта не требуется.">
+</Event></UpgradeLog>

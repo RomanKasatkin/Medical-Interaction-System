@@ -1,0 +1,204 @@
+E:\Универ\3Curs\КПО\Выполнение\Lab\KPO\bin\Debug\KPO.exe
+E:\Универ\3Curs\КПО\Выполнение\Lab\KPO\bin\Debug\KPO.pdb
+E:\Универ\3Curs\КПО\Выполнение\Lab\KPO\obj\Debug\KPO.Properties.Resources.resources
+E:\Универ\3Curs\КПО\Выполнение\Lab\KPO\obj\Debug\KPO.csproj.GenerateResource.Cache
+E:\Универ\3Curs\КПО\Выполнение\Lab\KPO\obj\Debug\KPO.exe
+E:\Универ\3Curs\КПО\Выполнение\Lab\KPO\obj\Debug\KPO.pdb
+E:\Универ\3Curs\КПО\Выполнение\Lab\KPO\obj\Debug\KPO.csprojResolveAssemblyReference.cache
+E:\Универ\3Curs\КПО\Выполнение\Lab\KPO\bin\Debug\KPO.exe.config
+E:\Универ\3Curs\КПО\Выполнение\Lab\KPO\obj\Debug\KPO.AdminMain.resources
+E:\Универ\3Curs\КПО\Выполнение\Lab\KPO\obj\Debug\KPO.StartWindow.resources
+E:\Универ\3Curs\КПО\Выполнение\Lab\KPO\obj\Debug\KPO.ReseptionMain.resources
+E:\Универ\3Curs\КПО\Выполнение\Lab\KPO\obj\Debug\KPO.ReseptionAddPatient.resources
+E:\Универ\3Curs\КПО\Выполнение\Lab\KPO\obj\Debug\KPO.LoginWindow.resources
+E:\Универ\3Curs\КПО\Выполнение\Lab\KPO\obj\Debug\KPO.MedpersonalMain.resources
+E:\Универ\3Curs\КПО\Выполнение\Lab\KPO\obj\Debug\KPO.DoctorMain.resources
+E:\Универ\3Curs\КПО\Выполнение\Lab\KPO\obj\Debug\KPO.ReseptionBodyCheck.resources
+\\roman\e$\Универ\3Curs\КПО\Выполнение\Lab\KPO\bin\Debug\KPO.exe.config
+\\roman\e$\Универ\3Curs\КПО\Выполнение\Lab\KPO\obj\Debug\KPO.exe
+\\roman\e$\Универ\3Curs\КПО\Выполнение\Lab\KPO\obj\Debug\KPO.csprojResolveAssemblyReference.cache
+\\roman\e$\Универ\3Curs\КПО\Выполнение\Lab\KPO\obj\Debug\KPO.AdminMain.resources
+\\roman\e$\Универ\3Curs\КПО\Выполнение\Lab\KPO\obj\Debug\KPO.DoctorMain.resources
+\\roman\e$\Универ\3Curs\КПО\Выполнение\Lab\KPO\obj\Debug\KPO.LoginWindow.resources
+\\roman\e$\Универ\3Curs\КПО\Выполнение\Lab\KPO\obj\Debug\KPO.MedpersonalMain.resources
+\\roman\e$\Универ\3Curs\КПО\Выполнение\Lab\KPO\obj\Debug\KPO.ReseptionAddPatient.resources
+\\roman\e$\Универ\3Curs\КПО\Выполнение\Lab\KPO\obj\Debug\KPO.ReseptionBodyCheck.resources
+\\roman\e$\Универ\3Curs\КПО\Выполнение\Lab\KPO\obj\Debug\KPO.ReseptionMain.resources
+\\roman\e$\Универ\3Curs\КПО\Выполнение\Lab\KPO\obj\Debug\KPO.StartWindow.resources
+\\roman\e$\Универ\3Curs\КПО\Выполнение\Lab\KPO\obj\Debug\KPO.Properties.Resources.resources
+\\roman\e$\Универ\3Curs\КПО\Выполнение\Lab\KPO\obj\Debug\KPO.csproj.GenerateResource.Cache
+E:\Универ\3Curs\КПО\Выполнение\Lab\KPO\obj\Debug\KPO.DoctorCard.resources
+E:\Универ\3Curs\КПО\Выполнение\Lab\KPO\obj\Debug\KPO.DoctorDirect.resources
+D:\Project\kasatkin\bin\Debug\KPO.exe.config
+D:\Project\kasatkin\obj\Debug\KPO.exe
+D:\Project\kasatkin\obj\Debug\KPO.csprojResolveAssemblyReference.cache
+D:\Project\kasatkin\obj\Debug\KPO.AdminMain.resources
+D:\Project\kasatkin\obj\Debug\KPO.DoctorCard.resources
+D:\Project\kasatkin\obj\Debug\KPO.DoctorDirect.resources
+D:\Project\kasatkin\obj\Debug\KPO.DoctorMain.resources
+D:\Project\kasatkin\obj\Debug\KPO.LoginWindow.resources
+D:\Project\kasatkin\obj\Debug\KPO.MedpersonalMain.resources
+D:\Project\kasatkin\obj\Debug\KPO.ReseptionAddPatient.resources
+D:\Project\kasatkin\obj\Debug\KPO.ReseptionBodyCheck.resources
+D:\Project\kasatkin\obj\Debug\KPO.ReseptionMain.resources
+D:\Project\kasatkin\obj\Debug\KPO.StartWindow.resources
+D:\Project\kasatkin\obj\Debug\KPO.Properties.Resources.resources
+D:\Project\kasatkin\obj\Debug\KPO.csproj.GenerateResource.Cache
+D:\Project\kpo\bin\Debug\KPO.exe.config
+D:\Project\kpo\obj\Debug\KPO.exe
+D:\Project\kpo\obj\Debug\KPO.AdminMain.resources
+D:\Project\kpo\obj\Debug\KPO.DoctorCard.resources
+D:\Project\kpo\obj\Debug\KPO.DoctorDirect.resources
+D:\Project\kpo\obj\Debug\KPO.DoctorMain.resources
+D:\Project\kpo\obj\Debug\KPO.LoginWindow.resources
+D:\Project\kpo\obj\Debug\KPO.MedpersonalMain.resources
+D:\Project\kpo\obj\Debug\KPO.ReseptionAddPatient.resources
+D:\Project\kpo\obj\Debug\KPO.ReseptionBodyCheck.resources
+D:\Project\kpo\obj\Debug\KPO.ReseptionMain.resources
+D:\Project\kpo\obj\Debug\KPO.StartWindow.resources
+D:\Project\kpo\obj\Debug\KPO.Properties.Resources.resources
+D:\Project\kpo\obj\Debug\KPO.csproj.GenerateResource.Cache
+D:\Project\kpo\bin\Debug\KPO.exe
+D:\Project\kpo\bin\Debug\KPO.pdb
+D:\Project\kpo\bin\Debug\MySql.Data.dll
+D:\Project\kpo\obj\Debug\KPO.pdb
+D:\Project\1\Kpo\Kpo.Gui\obj\Debug\KPO.AdminMain.resources
+D:\Project\1\Kpo\Kpo.Gui\obj\Debug\KPO.DoctorCard.resources
+D:\Project\1\Kpo\Kpo.Gui\obj\Debug\KPO.DoctorDirect.resources
+D:\Project\1\Kpo\Kpo.Gui\obj\Debug\KPO.DoctorMain.resources
+D:\Project\1\Kpo\Kpo.Gui\obj\Debug\KPO.LoginWindow.resources
+D:\Project\1\Kpo\Kpo.Gui\obj\Debug\KPO.MedpersonalMain.resources
+D:\Project\1\Kpo\Kpo.Gui\obj\Debug\KPO.ReseptionAddPatient.resources
+D:\Project\1\Kpo\Kpo.Gui\obj\Debug\KPO.ReseptionBodyCheck.resources
+D:\Project\1\Kpo\Kpo.Gui\obj\Debug\KPO.ReseptionMain.resources
+D:\Project\1\Kpo\Kpo.Gui\obj\Debug\KPO.StartWindow.resources
+D:\Project\1\Kpo\Kpo.Gui\obj\Debug\KPO.Properties.Resources.resources
+D:\Project\1\Kpo\Kpo.Gui\obj\Debug\KPO.csproj.GenerateResource.Cache
+D:\Project\1\Kpo\Kpo.Gui\obj\Debug\KPO.exe
+D:\Project\1\Kpo\Kpo.Gui\obj\Debug\KPO.pdb
+D:\Project\1\Kpo\Kpo.Gui\bin\Debug\KPO.exe.config
+D:\Project\1\Kpo\Kpo.Gui\bin\Debug\KPO.exe
+D:\Project\1\Kpo\Kpo.Gui\bin\Debug\KPO.pdb
+D:\Project\1\Kpo\Kpo.Gui\bin\Debug\MySql.Data.dll
+M:\1\1\Kpo\Kpo.Gui\bin\Debug\KPO.exe.config
+M:\1\1\Kpo\Kpo.Gui\obj\Debug\KPO.exe
+M:\1\1\Kpo\Kpo.Gui\obj\Debug\KPO.pdb
+M:\1\1\Kpo\Kpo.Gui\obj\Debug\KPO.csprojResolveAssemblyReference.cache
+M:\1\1\Kpo\Kpo.Gui\obj\Debug\KPO.csproj.GenerateResource.Cache
+M:\1\1\Kpo\Kpo.Gui\bin\Debug\KPO.exe
+M:\1\1\Kpo\Kpo.Gui\bin\Debug\KPO.pdb
+M:\1\1\Kpo\Kpo.Gui\bin\Debug\Kpo.BL.dll
+M:\1\1\Kpo\Kpo.Gui\bin\Debug\Kpo.Dal.dll
+M:\1\1\Kpo\Kpo.Gui\bin\Debug\Kpo.Entity.dll
+M:\1\1\Kpo\Kpo.Gui\bin\Debug\Kpo.UnitTest.exe
+M:\1\1\Kpo\Kpo.Gui\bin\Debug\linq2db.dll
+M:\1\1\Kpo\Kpo.Gui\bin\Debug\Kpo.BL.pdb
+M:\1\1\Kpo\Kpo.Gui\bin\Debug\Kpo.Dal.pdb
+M:\1\1\Kpo\Kpo.Gui\bin\Debug\Kpo.Entity.pdb
+M:\1\1\Kpo\Kpo.Gui\bin\Debug\Kpo.UnitTest.pdb
+M:\1\1\Kpo\Kpo.Gui\bin\Debug\linq2db.pdb
+M:\1\1\Kpo\Kpo.Gui\obj\Debug\KPO.Admin.AdminAddUser.resources
+M:\1\1\Kpo\Kpo.Gui\obj\Debug\KPO.Admin.AdminMainForm.resources
+M:\1\1\Kpo\Kpo.Gui\obj\Debug\KPO.Admin.DoctorCard.resources
+M:\1\1\Kpo\Kpo.Gui\obj\Debug\KPO.Admin.DoctorDirect.resources
+M:\1\1\Kpo\Kpo.Gui\obj\Debug\KPO.Admin.DoctorMain.resources
+M:\1\1\Kpo\Kpo.Gui\obj\Debug\KPO.Admin.LoginWindow.resources
+M:\1\1\Kpo\Kpo.Gui\obj\Debug\KPO.Admin.MedpersonalMain.resources
+M:\1\1\Kpo\Kpo.Gui\obj\Debug\KPO.Admin.ReseptionAddPatient.resources
+M:\1\1\Kpo\Kpo.Gui\obj\Debug\KPO.Admin.ReseptionMain.resources
+M:\1\1\Kpo\Kpo.Gui\obj\Debug\KPO.Admin.StartWindow.resources
+M:\1\1\Kpo\Kpo.Gui\obj\Debug\KPO.Admin.Properties.Resources.resources
+M:\1\1\Kpo\Kpo.Gui\obj\Debug\KPO.Admin.Admin.AdminChangeUser.resources
+M:\1\1\Kpo\Kpo.Gui\obj\Debug\KPO.Admin.DoctorStartWork.resources
+M:\1\1\Kpo\Kpo.Gui\obj\Debug\KPO.Admin.ReseptionEditClient.resources
+M:\1\1\Kpo\Kpo.Gui\obj\Debug\KPO.Admin.AdminAddFreeTime.resources
+M:\1\1\Kpo\Kpo.Gui\obj\Debug\KPO.Admin.ReseptionNewProc.resources
+M:\1\1\Kpo\Kpo.Gui\obj\Debug\KPO.Admin.DoctorClientInfo.resources
+M:\1\1\Kpo\Kpo.Gui\obj\Debug\KPO.Admin.Doctor.DoctorNewProc.resources
+M:\1\1\Kpo\Kpo.Gui\obj\Debug\KPO.Admin.MedpersonalStartWork.resources
+M:\1\1\Kpo\Kpo.Gui\obj\Debug\KPO.Admin.ReseptionClientInfo.resources
+D:\5 сем\КПО\Выполнение\1\Kpo\Kpo.Gui\bin\Debug\KPO.exe.config
+D:\5 сем\КПО\Выполнение\1\Kpo\Kpo.Gui\obj\Debug\KPO.exe
+D:\5 сем\КПО\Выполнение\1\Kpo\Kpo.Gui\obj\Debug\KPO.pdb
+E:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Gui\bin\Debug\KPO.exe.config
+E:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Gui\obj\Debug\KPO.exe
+E:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Gui\obj\Debug\KPO.pdb
+E:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Gui\obj\Debug\KPO.csprojResolveAssemblyReference.cache
+E:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Gui\obj\Debug\KPO.Admin.AdminAddJob.resources
+E:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Gui\obj\Debug\KPO.Admin.AdminAddProc.resources
+E:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Gui\obj\Debug\KPO.Admin.AdminAddFreeTime.resources
+E:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Gui\obj\Debug\KPO.Admin.AdminAddUser.resources
+E:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Gui\obj\Debug\KPO.Admin.Admin.AdminChangeUser.resources
+E:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Gui\obj\Debug\KPO.Admin.AdminMainForm.resources
+E:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Gui\obj\Debug\KPO.Admin.DoctorClientInfo.resources
+E:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Gui\obj\Debug\KPO.Admin.Doctor.DoctorNewProc.resources
+E:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Gui\obj\Debug\KPO.Admin.DoctorStartWork.resources
+E:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Gui\obj\Debug\KPO.Admin.DoctorCard.resources
+E:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Gui\obj\Debug\KPO.Admin.DoctorDirect.resources
+E:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Gui\obj\Debug\KPO.Admin.DoctorMain.resources
+E:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Gui\obj\Debug\KPO.Admin.ReseptionClientInfo.resources
+E:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Gui\obj\Debug\KPO.Admin.ReseptionNewProc.resources
+E:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Gui\obj\Debug\KPO.Admin.ReseptionEditClient.resources
+E:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Gui\obj\Debug\KPO.Admin.LoginWindow.resources
+E:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Gui\obj\Debug\KPO.Admin.MedpersonalMain.resources
+E:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Gui\obj\Debug\KPO.Admin.ReseptionAddPatient.resources
+E:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Gui\obj\Debug\KPO.Admin.ReseptionMain.resources
+E:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Gui\obj\Debug\KPO.Admin.StartWindow.resources
+E:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Gui\obj\Debug\KPO.Admin.Properties.Resources.resources
+E:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Gui\obj\Debug\KPO.csproj.GenerateResource.Cache
+E:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Gui\bin\Debug\KPO.exe
+E:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Gui\bin\Debug\KPO.pdb
+E:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Gui\bin\Debug\Kpo.BL.dll
+E:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Gui\bin\Debug\Kpo.Dal.dll
+E:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Gui\bin\Debug\Kpo.Entity.dll
+E:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Gui\bin\Debug\Kpo.UnitTest.exe
+E:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Gui\bin\Debug\linq2db.dll
+E:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Gui\bin\Debug\Kpo.BL.pdb
+E:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Gui\bin\Debug\Kpo.Dal.pdb
+E:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Gui\bin\Debug\Kpo.Entity.pdb
+E:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Gui\bin\Debug\Kpo.UnitTest.pdb
+E:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Gui\bin\Debug\linq2db.pdb
+E:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Gui\obj\Debug\KPO.Admin.AdminEditScedule.resources
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Gui\bin\Debug\KPO.exe.config
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Gui\bin\Debug\KPO.exe
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Gui\bin\Debug\KPO.pdb
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Gui\bin\Debug\Kpo.BL.dll
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Gui\bin\Debug\Kpo.Dal.dll
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Gui\bin\Debug\Kpo.Entity.dll
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Gui\bin\Debug\Kpo.UnitTest.exe
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Gui\bin\Debug\MySql.Data.dll
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Gui\bin\Debug\linq2db.dll
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Gui\bin\Debug\Kpo.BL.pdb
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Gui\bin\Debug\Kpo.BL.dll.config
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Gui\bin\Debug\Kpo.Dal.pdb
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Gui\bin\Debug\Kpo.Dal.dll.config
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Gui\bin\Debug\Kpo.Entity.pdb
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Gui\bin\Debug\Kpo.UnitTest.pdb
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Gui\bin\Debug\Kpo.UnitTest.exe.config
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Gui\bin\Debug\linq2db.pdb
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Gui\obj\Debug\KPO.csprojResolveAssemblyReference.cache
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Gui\obj\Debug\KPO.Admin.AdminEditScedule.resources
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Gui\obj\Debug\KPO.Admin.AdminAddJob.resources
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Gui\obj\Debug\KPO.Admin.AdminAddProc.resources
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Gui\obj\Debug\KPO.Admin.AdminAddFreeTime.resources
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Gui\obj\Debug\KPO.Admin.AdminAddUser.resources
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Gui\obj\Debug\KPO.Admin.Admin.AdminChangeUser.resources
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Gui\obj\Debug\KPO.Admin.AdminMainForm.resources
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Gui\obj\Debug\KPO.Admin.DoctorClientInfo.resources
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Gui\obj\Debug\KPO.Admin.Doctor.DoctorNewProc.resources
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Gui\obj\Debug\KPO.Admin.DoctorStartWork.resources
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Gui\obj\Debug\KPO.Admin.DoctorCard.resources
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Gui\obj\Debug\KPO.Admin.DoctorDirect.resources
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Gui\obj\Debug\KPO.Admin.DoctorMain.resources
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Gui\obj\Debug\KPO.Admin.ReseptionClientInfo.resources
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Gui\obj\Debug\KPO.Admin.ReseptionNewProc.resources
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Gui\obj\Debug\KPO.Admin.ReseptionEditClient.resources
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Gui\obj\Debug\KPO.Admin.LoginWindow.resources
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Gui\obj\Debug\KPO.Admin.MedpersonalMain.resources
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Gui\obj\Debug\KPO.Admin.ReseptionAddPatient.resources
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Gui\obj\Debug\KPO.Admin.ReseptionMain.resources
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Gui\obj\Debug\KPO.Admin.StartWindow.resources
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Gui\obj\Debug\KPO.Admin.Properties.Resources.resources
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Gui\obj\Debug\KPO.csproj.GenerateResource.Cache
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Gui\obj\Debug\KPO.exe
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Gui\obj\Debug\KPO.pdb

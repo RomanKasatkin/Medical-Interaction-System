@@ -1,0 +1,107 @@
+D:\Project\1\Kpo\Kpo.UnitTest\obj\Debug\Kpo.UnitTest.csprojResolveAssemblyReference.cache
+D:\Project\1\Kpo\Kpo.UnitTest\bin\Debug\Kpo.UnitTest.exe.config
+D:\Project\1\Kpo\Kpo.UnitTest\bin\Debug\Kpo.UnitTest.exe
+D:\Project\1\Kpo\Kpo.UnitTest\bin\Debug\Kpo.UnitTest.pdb
+D:\Project\1\Kpo\Kpo.UnitTest\bin\Debug\Kpo.BL.dll
+D:\Project\1\Kpo\Kpo.UnitTest\bin\Debug\Kpo.Entity.dll
+D:\Project\1\Kpo\Kpo.UnitTest\bin\Debug\System.Net.Http.dll
+D:\Project\1\Kpo\Kpo.UnitTest\bin\Debug\Kpo.Dal.dll
+D:\Project\1\Kpo\Kpo.UnitTest\bin\Debug\linq2db.dll
+D:\Project\1\Kpo\Kpo.UnitTest\bin\Debug\Kpo.BL.pdb
+D:\Project\1\Kpo\Kpo.UnitTest\bin\Debug\Kpo.Entity.pdb
+D:\Project\1\Kpo\Kpo.UnitTest\bin\Debug\System.Net.Http.xml
+D:\Project\1\Kpo\Kpo.UnitTest\bin\Debug\Kpo.Dal.pdb
+D:\Project\1\Kpo\Kpo.UnitTest\bin\Debug\linq2db.pdb
+D:\Project\1\Kpo\Kpo.UnitTest\obj\Debug\Kpo.UnitTest.exe
+D:\Project\1\Kpo\Kpo.UnitTest\obj\Debug\Kpo.UnitTest.pdb
+M:\1\1\Kpo\Kpo.UnitTest\bin\Debug\Kpo.UnitTest.exe.config
+M:\1\1\Kpo\Kpo.UnitTest\bin\Debug\Kpo.UnitTest.exe
+M:\1\1\Kpo\Kpo.UnitTest\bin\Debug\Kpo.UnitTest.pdb
+M:\1\1\Kpo\Kpo.UnitTest\bin\Debug\Kpo.BL.dll
+M:\1\1\Kpo\Kpo.UnitTest\bin\Debug\Kpo.Entity.dll
+M:\1\1\Kpo\Kpo.UnitTest\bin\Debug\Kpo.Dal.dll
+M:\1\1\Kpo\Kpo.UnitTest\bin\Debug\linq2db.dll
+M:\1\1\Kpo\Kpo.UnitTest\bin\Debug\Kpo.BL.pdb
+M:\1\1\Kpo\Kpo.UnitTest\bin\Debug\Kpo.Entity.pdb
+M:\1\1\Kpo\Kpo.UnitTest\bin\Debug\Kpo.Dal.pdb
+M:\1\1\Kpo\Kpo.UnitTest\bin\Debug\linq2db.pdb
+M:\1\1\Kpo\Kpo.UnitTest\obj\Debug\Kpo.UnitTest.csprojResolveAssemblyReference.cache
+M:\1\1\Kpo\Kpo.UnitTest\obj\Debug\Kpo.UnitTest.exe
+M:\1\1\Kpo\Kpo.UnitTest\obj\Debug\Kpo.UnitTest.pdb
+M:\1\1\Kpo\Kpo.UnitTest\bin\Debug\MySql.Data.Entity.EF6.dll
+M:\1\1\Kpo\Kpo.UnitTest\bin\Debug\MySql.Fabric.Plugin.dll
+M:\1\1\Kpo\Kpo.UnitTest\bin\Debug\MySql.Data.Entity.EF6.xml
+M:\1\1\Kpo\Kpo.UnitTest\obj\Debug\Kpo.UnitTest.csproj.Kpo.UnitTest.exe.config
+M:\1\1\Kpo\Kpo.UnitTest\bin\Debug\MySql.Data.dll
+M:\1\1\Kpo\Kpo.UnitTest\bin\Debug\MySql.Data.xml
+E:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.UnitTest\bin\Debug\Kpo.UnitTest.exe.config
+E:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.UnitTest\bin\Debug\Kpo.UnitTest.exe
+E:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.UnitTest\bin\Debug\Kpo.UnitTest.pdb
+E:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.UnitTest\bin\Debug\Kpo.BL.dll
+E:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.UnitTest\bin\Debug\Kpo.Entity.dll
+E:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.UnitTest\bin\Debug\MySql.Data.dll
+E:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.UnitTest\bin\Debug\MySql.Data.Entity.EF6.dll
+E:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.UnitTest\bin\Debug\MySql.Fabric.Plugin.dll
+E:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.UnitTest\bin\Debug\Kpo.Dal.dll
+E:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.UnitTest\bin\Debug\linq2db.dll
+E:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.UnitTest\bin\Debug\Kpo.BL.pdb
+E:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.UnitTest\bin\Debug\Kpo.Entity.pdb
+E:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.UnitTest\bin\Debug\MySql.Data.xml
+E:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.UnitTest\bin\Debug\MySql.Data.Entity.EF6.xml
+E:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.UnitTest\bin\Debug\Kpo.Dal.pdb
+E:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.UnitTest\bin\Debug\linq2db.pdb
+E:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.UnitTest\obj\Debug\Kpo.UnitTest.csprojResolveAssemblyReference.cache
+E:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.UnitTest\obj\Debug\Kpo.UnitTest.csproj.Kpo.UnitTest.exe.config
+E:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.UnitTest\obj\Debug\Kpo.UnitTest.exe
+E:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.UnitTest\obj\Debug\Kpo.UnitTest.pdb
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.UnitTest\bin\Debug\Kpo.UnitTest.exe.config
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.UnitTest\bin\Debug\Kpo.UnitTest.exe
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.UnitTest\bin\Debug\Kpo.UnitTest.pdb
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.UnitTest\bin\Debug\Kpo.BL.dll
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.UnitTest\bin\Debug\Kpo.Entity.dll
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.UnitTest\bin\Debug\MySql.Data.dll
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.UnitTest\bin\Debug\MySql.Data.Entity.dll
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.UnitTest\bin\Debug\MySql.Data.Entity.EF6.dll
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.UnitTest\bin\Debug\MySql.Fabric.Plugin.dll
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.UnitTest\bin\Debug\MySql.Web.dll
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.UnitTest\bin\Debug\System.Net.Http.dll
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.UnitTest\bin\Debug\Kpo.Dal.dll
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.UnitTest\bin\Debug\linq2db.dll
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.UnitTest\bin\Debug\WebMatrix.WebData.dll
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.UnitTest\bin\Debug\System.Web.WebPages.dll
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.UnitTest\bin\Debug\WebMatrix.Data.dll
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.UnitTest\bin\Debug\System.Web.WebPages.Razor.dll
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.UnitTest\bin\Debug\System.Web.Helpers.dll
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.UnitTest\bin\Debug\Microsoft.Web.Infrastructure.dll
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.UnitTest\bin\Debug\System.Web.Razor.dll
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.UnitTest\bin\Debug\System.Web.WebPages.Deployment.dll
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.UnitTest\bin\Debug\Kpo.BL.pdb
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.UnitTest\bin\Debug\Kpo.BL.dll.config
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.UnitTest\bin\Debug\Kpo.Entity.pdb
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.UnitTest\bin\Debug\MySql.Data.xml
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.UnitTest\bin\Debug\MySql.Data.Entity.EF6.xml
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.UnitTest\bin\Debug\MySql.Web.xml
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.UnitTest\bin\Debug\System.Net.Http.xml
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.UnitTest\bin\Debug\Kpo.Dal.pdb
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.UnitTest\bin\Debug\Kpo.Dal.dll.config
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.UnitTest\bin\Debug\linq2db.pdb
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.UnitTest\bin\Debug\WebMatrix.WebData.xml
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.UnitTest\bin\Debug\System.Web.WebPages.xml
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.UnitTest\bin\Debug\WebMatrix.Data.xml
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.UnitTest\bin\Debug\System.Web.WebPages.Razor.xml
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.UnitTest\bin\Debug\System.Web.Helpers.xml
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.UnitTest\bin\Debug\Microsoft.Web.Infrastructure.xml
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.UnitTest\bin\Debug\System.Web.Razor.xml
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.UnitTest\bin\Debug\System.Web.WebPages.Deployment.xml
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.UnitTest\bin\Debug\ru\System.Net.Http.resources.dll
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.UnitTest\bin\Debug\ru\WebMatrix.WebData.resources.dll
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.UnitTest\bin\Debug\ru\System.Web.WebPages.resources.dll
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.UnitTest\bin\Debug\ru\WebMatrix.Data.resources.dll
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.UnitTest\bin\Debug\ru\System.Web.WebPages.Razor.resources.dll
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.UnitTest\bin\Debug\ru\System.Web.Helpers.resources.dll
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.UnitTest\bin\Debug\ru\System.Web.Razor.resources.dll
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.UnitTest\bin\Debug\ru\System.Web.WebPages.Deployment.resources.dll
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.UnitTest\obj\Debug\Kpo.UnitTest.csprojResolveAssemblyReference.cache
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.UnitTest\obj\Debug\Kpo.UnitTest.csproj.Kpo.UnitTest.exe.config
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.UnitTest\obj\Debug\Kpo.UnitTest.exe
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.UnitTest\obj\Debug\Kpo.UnitTest.pdb

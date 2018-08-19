@@ -1,0 +1,353 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{22933FDF-8F14-4A70-B53F-93470D20A053}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>KPO.Admin</RootNamespace>
+    <AssemblyName>KPO</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <UpgradeBackupLocation />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile />
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data">
+      <HintPath>bin\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.Entity" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Admin\AdminEditScedule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\AdminEditScedule.Designer.cs">
+      <DependentUpon>AdminEditScedule.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\AdminAddJob.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\AdminAddJob.Designer.cs">
+      <DependentUpon>AdminAddJob.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\AdminAddProc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\AdminAddProc.Designer.cs">
+      <DependentUpon>AdminAddProc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\AdminAddFreeTime.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\AdminAddFreeTime.Designer.cs">
+      <DependentUpon>AdminAddFreeTime.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\AdminAddUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\AdminAddUser.Designer.cs">
+      <DependentUpon>AdminAddUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\AdminChangeUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\AdminChangeUser.Designer.cs">
+      <DependentUpon>AdminChangeUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\AdminMainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\AdminMainForm.Designer.cs">
+      <DependentUpon>AdminMainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Doctor\DoctorClientInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Doctor\DoctorClientInfo.Designer.cs">
+      <DependentUpon>DoctorClientInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Doctor\DoctorNewProc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Doctor\DoctorNewProc.Designer.cs">
+      <DependentUpon>DoctorNewProc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Doctor\DoctorStartWork.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Doctor\DoctorStartWork.Designer.cs">
+      <DependentUpon>DoctorStartWork.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Doctor\DoctorCard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Doctor\DoctorCard.Designer.cs">
+      <DependentUpon>DoctorCard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Doctor\DoctorDirect.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Doctor\DoctorDirect.Designer.cs">
+      <DependentUpon>DoctorDirect.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Doctor\DoctorMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Doctor\DoctorMain.Designer.cs">
+      <DependentUpon>DoctorMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reseption\ReseptionClientInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reseption\ReseptionClientInfo.Designer.cs">
+      <DependentUpon>ReseptionClientInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reseption\ReseptionNewProc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reseption\ReseptionNewProc.Designer.cs">
+      <DependentUpon>ReseptionNewProc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reseption\ReseptionEditClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reseption\ReseptionEditClient.Designer.cs">
+      <DependentUpon>ReseptionEditClient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Session_control.cs" />
+    <Compile Include="Medpersonal\MedpersonalMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Medpersonal\MedpersonalMain.Designer.cs">
+      <DependentUpon>MedpersonalMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reseption\ReseptionAddPatient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reseption\ReseptionAddPatient.Designer.cs">
+      <DependentUpon>ReseptionAddPatient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reseption\ReseptionCalendar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reseption\ReseptionCalendar.Designer.cs">
+      <DependentUpon>ReseptionCalendar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reseption\ReseptionMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reseption\ReseptionMain.Designer.cs">
+      <DependentUpon>ReseptionMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reseption\ReseptionShowCard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reseption\ReseptionShowCard.Designer.cs">
+      <DependentUpon>ReseptionShowCard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Start\StartWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Start\StartWindow.Designer.cs">
+      <DependentUpon>StartWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Start\LoginWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Start\LoginWindow.Designer.cs">
+      <DependentUpon>LoginWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Admin\AdminEditScedule.resx">
+      <DependentUpon>AdminEditScedule.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\AdminAddJob.resx">
+      <DependentUpon>AdminAddJob.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\AdminAddProc.resx">
+      <DependentUpon>AdminAddProc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\AdminAddFreeTime.resx">
+      <DependentUpon>AdminAddFreeTime.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\AdminAddUser.resx">
+      <DependentUpon>AdminAddUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\AdminChangeUser.resx">
+      <DependentUpon>AdminChangeUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\AdminMainForm.resx">
+      <DependentUpon>AdminMainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Doctor\DoctorClientInfo.resx">
+      <DependentUpon>DoctorClientInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Doctor\DoctorNewProc.resx">
+      <DependentUpon>DoctorNewProc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Doctor\DoctorStartWork.resx">
+      <DependentUpon>DoctorStartWork.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Doctor\DoctorCard.resx">
+      <DependentUpon>DoctorCard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Doctor\DoctorDirect.resx">
+      <DependentUpon>DoctorDirect.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Doctor\DoctorMain.resx">
+      <DependentUpon>DoctorMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reseption\ReseptionClientInfo.resx">
+      <DependentUpon>ReseptionClientInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reseption\ReseptionNewProc.resx">
+      <DependentUpon>ReseptionNewProc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reseption\ReseptionEditClient.resx">
+      <DependentUpon>ReseptionEditClient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Start\LoginWindow.resx">
+      <DependentUpon>LoginWindow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Medpersonal\MedpersonalMain.resx">
+      <DependentUpon>MedpersonalMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reseption\ReseptionAddPatient.resx">
+      <DependentUpon>ReseptionAddPatient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reseption\ReseptionMain.resx">
+      <DependentUpon>ReseptionMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Start\StartWindow.resx">
+      <DependentUpon>StartWindow.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="App.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>Клиентский профиль .NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Установщик Windows 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Kpo.BL\Kpo.BL.csproj">
+      <Project>{4e337952-4970-449c-b17f-54483f48976d}</Project>
+      <Name>Kpo.BL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Kpo.Dal\Kpo.Dal.csproj">
+      <Project>{0fbd3c65-c717-43e6-9a4b-9e90450c6c6e}</Project>
+      <Name>Kpo.Dal</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Kpo.Entity\Kpo.Entity.csproj">
+      <Project>{84665e0a-f922-4fb5-8b31-6ec454b50030}</Project>
+      <Name>Kpo.Entity</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Kpo.UnitTest\Kpo.UnitTest.csproj">
+      <Project>{08fe00d8-e545-4e57-adc9-092217f05bcb}</Project>
+      <Name>Kpo.UnitTest</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

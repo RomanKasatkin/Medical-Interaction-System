@@ -1,0 +1,71 @@
+D:\Project\kpo\Kpo.Entity\bin\Debug\Kpo.Entity.dll
+D:\Project\kpo\Kpo.Entity\bin\Debug\Kpo.Entity.pdb
+D:\Project\kpo\Kpo.Entity\bin\Debug\System.Net.Http.dll
+D:\Project\kpo\Kpo.Entity\bin\Debug\System.Net.Http.xml
+D:\Project\kpo\Kpo.Entity\obj\Debug\Kpo.Entity.csprojResolveAssemblyReference.cache
+D:\Project\kpo\Kpo.Entity\obj\Debug\Kpo.Entity.dll
+D:\Project\kpo\Kpo.Entity\obj\Debug\Kpo.Entity.pdb
+D:\Project\1\Kpo\Kpo.Entity\bin\Debug\Kpo.Entity.dll
+D:\Project\1\Kpo\Kpo.Entity\bin\Debug\Kpo.Entity.pdb
+D:\Project\1\Kpo\Kpo.Entity\bin\Debug\System.Net.Http.dll
+D:\Project\1\Kpo\Kpo.Entity\bin\Debug\System.Net.Http.xml
+D:\Project\1\Kpo\Kpo.Entity\obj\Debug\Kpo.Entity.dll
+D:\Project\1\Kpo\Kpo.Entity\obj\Debug\Kpo.Entity.pdb
+M:\1\1\Kpo\Kpo.Entity\bin\Debug\Kpo.Entity.dll
+M:\1\1\Kpo\Kpo.Entity\bin\Debug\Kpo.Entity.pdb
+M:\1\1\Kpo\Kpo.Entity\obj\Debug\Kpo.Entity.csprojResolveAssemblyReference.cache
+M:\1\1\Kpo\Kpo.Entity\obj\Debug\Kpo.Entity.dll
+M:\1\1\Kpo\Kpo.Entity\obj\Debug\Kpo.Entity.pdb
+M:\1\1\Kpo\Kpo.Entity\bin\Debug\MySql.Data.Entity.EF6.dll
+M:\1\1\Kpo\Kpo.Entity\bin\Debug\MySql.Fabric.Plugin.dll
+M:\1\1\Kpo\Kpo.Entity\bin\Debug\MySql.Data.Entity.EF6.xml
+M:\1\1\Kpo\Kpo.Entity\bin\Debug\MySql.Data.dll
+M:\1\1\Kpo\Kpo.Entity\bin\Debug\MySql.Data.xml
+E:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Entity\bin\Debug\Kpo.Entity.dll
+E:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Entity\bin\Debug\Kpo.Entity.pdb
+E:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Entity\bin\Debug\MySql.Data.dll
+E:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Entity\bin\Debug\MySql.Data.Entity.EF6.dll
+E:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Entity\bin\Debug\MySql.Fabric.Plugin.dll
+E:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Entity\bin\Debug\MySql.Data.xml
+E:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Entity\bin\Debug\MySql.Data.Entity.EF6.xml
+E:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Entity\obj\Debug\Kpo.Entity.dll
+E:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Entity\obj\Debug\Kpo.Entity.pdb
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Entity\bin\Debug\Kpo.Entity.dll
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Entity\bin\Debug\Kpo.Entity.pdb
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Entity\bin\Debug\MySql.Data.dll
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Entity\bin\Debug\MySql.Data.Entity.dll
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Entity\bin\Debug\MySql.Data.Entity.EF6.dll
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Entity\bin\Debug\MySql.Fabric.Plugin.dll
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Entity\bin\Debug\MySql.Web.dll
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Entity\bin\Debug\System.Net.Http.dll
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Entity\bin\Debug\WebMatrix.WebData.dll
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Entity\bin\Debug\System.Web.WebPages.dll
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Entity\bin\Debug\WebMatrix.Data.dll
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Entity\bin\Debug\System.Web.WebPages.Razor.dll
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Entity\bin\Debug\System.Web.Helpers.dll
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Entity\bin\Debug\Microsoft.Web.Infrastructure.dll
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Entity\bin\Debug\System.Web.Razor.dll
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Entity\bin\Debug\System.Web.WebPages.Deployment.dll
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Entity\bin\Debug\MySql.Data.xml
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Entity\bin\Debug\MySql.Data.Entity.EF6.xml
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Entity\bin\Debug\MySql.Web.xml
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Entity\bin\Debug\System.Net.Http.xml
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Entity\bin\Debug\WebMatrix.WebData.xml
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Entity\bin\Debug\System.Web.WebPages.xml
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Entity\bin\Debug\WebMatrix.Data.xml
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Entity\bin\Debug\System.Web.WebPages.Razor.xml
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Entity\bin\Debug\System.Web.Helpers.xml
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Entity\bin\Debug\Microsoft.Web.Infrastructure.xml
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Entity\bin\Debug\System.Web.Razor.xml
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Entity\bin\Debug\System.Web.WebPages.Deployment.xml
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Entity\bin\Debug\ru\System.Net.Http.resources.dll
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Entity\bin\Debug\ru\WebMatrix.WebData.resources.dll
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Entity\bin\Debug\ru\System.Web.WebPages.resources.dll
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Entity\bin\Debug\ru\WebMatrix.Data.resources.dll
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Entity\bin\Debug\ru\System.Web.WebPages.Razor.resources.dll
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Entity\bin\Debug\ru\System.Web.Helpers.resources.dll
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Entity\bin\Debug\ru\System.Web.Razor.resources.dll
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Entity\bin\Debug\ru\System.Web.WebPages.Deployment.resources.dll
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Entity\obj\Debug\Kpo.Entity.csprojResolveAssemblyReference.cache
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Entity\obj\Debug\Kpo.Entity.dll
+L:\Универ\3Curs\КПО\Выполнение\1 (1)\1\Kpo\Kpo.Entity\obj\Debug\Kpo.Entity.pdb
